@@ -1,10 +1,11 @@
-<h2> ¡Hola, soy Rudihmar! <img src = "https://media.giphy.com/media/Q6xFPLfzfsgKoKDV60/giphy.gif" width = "50"> </h2>
-<img align = 'right' src = "https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width = "230">
-<p> <em> Desarrolladora Web Front-End </a> <img src = "https://media.giphy.com/media/cZ1t1Zeh2TMrzhvbq9/giphy.gif" width =" 30 "> </br> <img src =" https: // media. giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif "width =" 30 "> 
+<h2> ¡Hola, soy Rudihmar! <img src = "https://media.giphy.com/media/Q6xFPLfzfsgKoKDV60/giphy.gif" width = "45"> </h2>
+<img align = 'right' src = "https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width = "130">
+<p> </br> <em> Desarrolladora Web Front-End </a> <img src = "https://media.giphy.com/media/cZ1t1Zeh2TMrzhvbq9/giphy.gif" width =" 30 "> 
+</br> <img src =" https: // media. giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif "width =" 30 "> 
 </em> </p>
 
 
-### <img src = "https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width = "50"> Un poco más sobre mí ...  
+### <img src = "https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width = "45"> Un poco más sobre mí ...  
 
 ```js
 const rudy = {
@@ -17,7 +18,7 @@ const rudy = {
 }
 ```
 
-<img src = "https://media.giphy.com/media/OQ4gqMP2b7uDu/giphy.gif" width = "70"> <em> <b> Me encanta conectarme con diferentes personas </b>, así que si quieres di <b> hola, ¡será un placer conocerte más! </b> :) </em>
+<img src = "https://media.giphy.com/media/OQ4gqMP2b7uDu/giphy.gif" width = "60"> <em> <b> Me encanta conectarme con diferentes personas </b>, así que si quieres di <b> hola, ¡será un placer conocerte más! </b> :) </em>
 
 ---
 
