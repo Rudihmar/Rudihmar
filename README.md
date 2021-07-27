@@ -3,9 +3,10 @@
 <p> <em> Desarrolladora Web Front-End </a> <img src = "https://media.giphy.com/media/cZ1t1Zeh2TMrzhvbq9/giphy.gif" width =" 30 "> </br> <img src =" https: // media. giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif "width =" 30 "> 
 </em> </p>
 
+
 ### <img src = "https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width = "50"> Un poco más sobre mí ...  
 
-`` `javascript
+```js
 const rudy = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS],
