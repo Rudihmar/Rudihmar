@@ -15,7 +15,7 @@ const rudy = {
   hobbies: ["Yoga", "Running", "Devorar Libros", "Pasear a mi Perrito"],
   challenge: "Actualmente me encuentro reforzando todo lo aprendido y reencontrandome con mi rutina de ejercicios"
 }
-''
+```
 
 <img src = "https://media.giphy.com/media/OQ4gqMP2b7uDu/giphy.gif" width = "70"> <em> <b> Me encanta conectarme con diferentes personas </b>, así que si quieres di <b> hola, ¡será un placer conocerte más! </b> :) </em>
 
